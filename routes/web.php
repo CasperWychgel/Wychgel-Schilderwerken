@@ -12,9 +12,17 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('pages.welcome');
 });
 
 Route::get('/portfolio', function () {
-    return view('portfolio');
+    return view('pages.portfolio');
+});
+
+Route::get('/instagram', function () {
+    return view('pages.instagram');
+});
+
+Route::get('/contact', function () {
+    return view('pages.contact');
 });

@@ -11100,9 +11100,22 @@ a.text-dark:focus {
   }
 }
 
-.navbar-laravel {
-  background-color: #fff;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+body {
+  background-image: url(/images/background.png?80bcee28261127cd2d7a387d5510359f);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #9bc9e3;
+}
+
+.flex-center {
+  -webkit-box-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: center;
+          justify-content: center;
 }
 
 .full-height {
@@ -11154,3 +11167,7 @@ a.text-dark:focus {
   margin-bottom: 30px;
 }
 
+.fbembed{
+  margin: 0 auto;
+  display: block;
+}
