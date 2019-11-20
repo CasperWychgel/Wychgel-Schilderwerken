@@ -21,7 +21,7 @@
                         <h1 class="display-4">Welkom!</h1>
                         <p class="lead">Op deze website kunt u onder andere het werk zien dat door Wychgel schilderwerken word verricht en de projecten die zijn afgerond</p>
                         <hr class="my-4">
-                        <a class="btn btn-primary btn-lg" href="#" role="button">Meer informatie</a>
+                        <a class="btn btn-primary btn-lg" href="/portfolio" role="button">Meer informatie</a>
                     </div>
                 </div>
             </div>
@@ -31,7 +31,7 @@
                         <h1 class="display-4">Welkom!</h1>
                         <p class="lead">Op deze website kunt u onder andere het werk zien dat door Wychgel schilderwerken word verricht en de projecten die zijn afgerond</p>
                         <hr class="my-4">
-                        <a class="btn btn-primary btn-lg" href="#" role="button">Meer informatie</a>
+                        <a class="btn btn-primary btn-lg" href="/portfolio" role="button">Meer informatie</a>
                     </div>
                 </div>
             </div>
