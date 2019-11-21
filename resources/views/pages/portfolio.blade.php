@@ -14,7 +14,7 @@
         </div>
 
         <div class="card-columns">
-            <div class="card">
+            <div class="card shadow-lg">
                 <div class="card-body">
                     <h5 class="card-title">Schilderwerk botenhuis Veveo Hoogglans</h5>
                     <p class="card-text">Het aanbrengen van een Veveo hoogglans verf op een botenhuis</p>

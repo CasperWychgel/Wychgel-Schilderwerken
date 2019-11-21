@@ -15,7 +15,7 @@
         </div>
 
         <div class="row justify-content-start fixed-bottom">
-            <div class="d-none d-lg-block">
+            <div class="d-none d-sm-block d-md-block d-lg-block d-xl-block">
                 <div class="col">
                     <div class="ml-5 jumbotron bg-white shadow-lg" style="width:340px">
                         <h1 class="display-4">Welkom!</h1>
@@ -25,17 +25,19 @@
                     </div>
                 </div>
             </div>
-            <div class="d-none d-sm-none d-md-none">
-                <div class="col">
-                    <div class="mx-5 jumbotron bg-white shadow-lg">
-                        <h1 class="display-4">Welkom!</h1>
-                        <p class="lead">Op deze website kunt u onder andere het werk zien dat door Wychgel schilderwerken word verricht en de projecten die zijn afgerond</p>
-                        <hr class="my-4">
-                        <a class="btn btn-primary btn-lg" href="/portfolio" role="button">Meer informatie</a>
-                    </div>
+        </div>
+        <div class="row justify-content-center ">
+            <div class="d-block d-sm-none ">
+                <div class="col-12">
+                    <a class="btn btn-primary btn-lg flex-center" href="/contact" role="button">Contact</a>
                 </div>
             </div>
         </div>
     </div>
+
+
+
+@endsection
+@section('scripts')
 
 @endsection
