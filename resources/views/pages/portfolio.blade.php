@@ -3,7 +3,8 @@
 @section('content')
     <style>
         body{
-            background-image: url(../img/wychgelpaintpackaging-light.png);
+            background-image: url(../img/wychgelpainttube-cyan.png);
+            background-color: #74d4ce;
         }
     </style>
     <div class="container-fluid">
@@ -19,7 +20,19 @@
         </div>
 
         <div class="card-columns">
-            <div class="card shadow-lg">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Schilderwerk botenhuis Veveo Hoogglans</h5>
+                    <p class="card-text">Het aanbrengen van een Veveo hoogglans verf op een botenhuis</p>
+                </div>
+            </div>
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Schilderwerk botenhuis Veveo Hoogglans</h5>
+                    <p class="card-text">Het aanbrengen van een Veveo hoogglans verf op een botenhuis</p>
+                </div>
+            </div>
+            <div class="card shadow-sm">
                 <div class="card-body">
                     <h5 class="card-title">Schilderwerk botenhuis Veveo Hoogglans</h5>
                     <p class="card-text">Het aanbrengen van een Veveo hoogglans verf op een botenhuis</p>
