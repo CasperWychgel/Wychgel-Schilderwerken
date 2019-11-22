@@ -1,5 +1,5 @@
 
-<nav class="navbar navbar-expand-lg  fixed-top navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
     <a class="navbar-brand" href="/">
         <img src="../img/logo-white-transparent.png" width="30" height="30" class="d-inline-block align-top rounded-circle" alt="">
         Wychgel Schilderwerken
@@ -10,7 +10,7 @@
     </button>
 
     <div class="collapse navbar-collapse" id="navbarToggler">
-        <ul class="navbar-nav  justify-content-center mr-auto mt-2 mt-lg-0">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
             <li class="nav-item">
                 <a class="nav-link " href="#">Foto's</a>
             </li>
