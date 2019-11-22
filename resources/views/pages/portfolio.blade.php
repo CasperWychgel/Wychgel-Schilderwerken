@@ -1,6 +1,11 @@
 @extends('layout')
 
 @section('content')
+    <style>
+        body{
+            background-image: url(../img/wychgelpaintpackaging-light.png);
+        }
+    </style>
     <div class="container-fluid">
         <div class="row justify-content-center" style="margin-top: 20vh">
             <div class="col-sm-12 mb-5">

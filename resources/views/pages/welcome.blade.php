@@ -1,11 +1,11 @@
 @extends('layout')
 
 @section('content')
-    <div class="container-fluid">
 
+    <div class="container-fluid">
         <div class="row justify-content-center" style="margin-top: 20vh">
             <div class="col-sm-12 mb-5">
-                <div class="d-lg-none">
+                <div class="d-block d-sm-none">
                     <h1 class="text-center text-white">Wychgel Schilderwerken</h1>
                 </div>
                 <div class="d-none d-lg-block">
@@ -27,13 +27,16 @@
             </div>
         </div>
         <div class="row justify-content-center ">
-            <div class="d-block d-sm-none ">
-                <div class="col-12">
-                    <a class="btn btn-primary btn-lg flex-center" href="/contact" role="button">Contact</a>
+            <div class="d-block d-sm-none">
+                <div class="col-12 mt-5">
+                    <div class="d-lg-none">
+                        <h2 class="text-center text-white">Geeft kwaliteit een naam!</h2>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
+
 
 
 

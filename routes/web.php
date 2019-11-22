@@ -26,3 +26,7 @@ Route::get('/instagram', function () {
 Route::get('/contact', function () {
     return view('pages.contact');
 });
+
+Route::get('/info', function () {
+    return view('pages.info');
+});
