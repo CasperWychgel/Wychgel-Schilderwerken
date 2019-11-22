@@ -1,7 +1,7 @@
 
 <nav class="navbar navbar-expand-lg  fixed-top navbar-dark bg-dark">
     <a class="navbar-brand" href="/">
-        <img src="../img/Paint.svg" width="30" height="30" class="d-inline-block align-top rounded-circle" alt="">
+        <img src="../img/logo-white-transparent.png" width="30" height="30" class="d-inline-block align-top rounded-circle" alt="">
         Wychgel Schilderwerken
     </a>
 

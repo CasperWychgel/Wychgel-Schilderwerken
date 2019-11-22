@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1.0, user-scalable=no">
 
         <title>Wychgel Schilderwerken</title>
+        <link rel="icon" href="../img/logo-white-transparent.png">
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
