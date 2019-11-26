@@ -23,11 +23,17 @@
             <div class="col-sm-6 col-md-10 mb-0">
                 <div class="jumbotron bg-transparent text-white">
                     <h1 class="display-4">Informatie over mij</h1>
-                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eget semper justo. Cras placerat lorem non turpis semper, ac porttitor neque congue. Proin pharetra augue at elit sollicitudin, sed volutpat erat rutrum. Nam at odio aliquam, vestibulum erat nec, placerat justo. Aliquam massa eros, bibendum vitae tincidunt id, pellentesque eu diam. In cursus, turpis non mattis auctor, justo eros ultrices sapien, eget facilisis justo lacus sodales libero. Pellentesque non ligula sit amet erat semper vehicula nec viverra lectus. Curabitur tempus, lectus id bibendum vehicula, libero velit molestie metus, eleifend iaculis neque nisi ut nisl.
+                    <p class="lead">
+                        Mijn naam is Michael Wychgel
+                        Sinds 2014 heb ik mijn eigen schildersbedrijf wat gespecialiseerd is in particulier schilderwerk.
+                        Het schildersvak oefen ik ondertussen al meer dan 25 jaar uit.
+                        Ik ben begonnen als leerlingschilder en heb in de avonduren daarnaast mijn diverse vakdiploma’s gehaald op de schildersvakschool in Nieuwegein.
+                        Daarna ben ik als onderhoudsschilder in loondienst gaan werken, met veel plezier.
+                        Mede door een faillissement bij het bedrijf waar ik toen werkzaam was en omdat de tijd rijp was om voor mijzelf te gaan beginnen, was deze keuze snel gemaakt.
+                        In januari 2014 ben ik toen mijn eigen bedrijf begonnen.
+                        Door mijn vakmanschap, ervaring, passie voor mooi schilderwerk en het gebruik van gerenommeerde, kwalitatief goede verfproducten, geef ik kwaliteit een naam.
 
-                        Nulla non cursus nunc. Proin id sapien consequat, malesuada sem ac, pulvinar tortor. Curabitur sed odio nec dolor vulputate tristique. Aenean vitae facilisis erat. Nam pellentesque dui quis venenatis feugiat. Nulla malesuada nulla eu felis aliquet, maximus pretium sem mollis. Sed placerat ornare ante, at accumsan libero gravida at. Vivamus volutpat purus odio, sit amet eleifend elit molestie faucibus. Aenean maximus condimentum felis, et vestibulum justo iaculis id. Maecenas porttitor id lacus et fermentum. Curabitur semper id turpis a dapibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eget semper justo. Cras placerat lorem non turpis semper, ac porttitor neque congue. Proin pharetra augue at elit sollicitudin, sed volutpat erat rutrum. Nam at odio aliquam, vestibulum erat nec, placerat justo. Aliquam massa eros, bibendum vitae tincidunt id, pellentesque eu diam. In cursus, turpis non mattis auctor, justo eros ultrices sapien, eget facilisis justo lacus sodales libero. Pellentesque non ligula sit amet erat semper vehicula nec viverra lectus. Curabitur tempus, lectus id bibendum vehicula, libero velit molestie metus, eleifend iaculis neque nisi ut nisl.
-
-                        Nulla non cursus nunc. Proin id sapien consequat, malesuada sem ac, pulvinar tortor. Curabitur sed odio nec dolor vulputate tristique. Aenean vitae facilisis erat. Nam pellentesque dui quis venenatis feugiat. Nulla malesuada nulla eu felis aliquet, maximus pretium sem mollis. Sed placerat ornare ante, at accumsan libero gravida at. Vivamus volutpat purus odio, sit amet eleifend elit molestie faucibus. Aenean maximus condimentum felis, et vestibulum justo iaculis id. Maecenas porttitor id lacus et fermentum. Curabitur semper id turpis a dapibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        Wychgel Schilderwerken
                     </p>
 
                     <h1 class="display-4">Locatie</h1>
