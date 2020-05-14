@@ -14,7 +14,7 @@
             <a class="btn btn-outline-secondary btn-light" target="_blank" href="Instagram link">Mijn Instagram</a>
         </div>
         <div class="col-md-12 col-sm-6 p-lg-5 mx-auto my-5">
-            <div id="pixlee_container"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'X79RGtLJ_LFjzuDKOAvU'});Pixlee.addSimpleWidget({widgetId:'23348'});};</script><script src="//instafeed.assets.pixlee.com/assets/pixlee_widget_1_0_0.js"></script>
+            <div id="pixlee_container"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'##########'});Pixlee.addSimpleWidget({widgetId:'23348'});};</script><script src="//instafeed.assets.pixlee.com/assets/pixlee_widget_1_0_0.js"></script>
 
         </div>
     </div>
